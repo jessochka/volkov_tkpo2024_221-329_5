@@ -1,0 +1,16 @@
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\bin\Debug\net8.0-windows\ElevatorSystemForms.exe
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\bin\Debug\net8.0-windows\ElevatorSystemForms.deps.json
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\bin\Debug\net8.0-windows\ElevatorSystemForms.runtimeconfig.json
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\bin\Debug\net8.0-windows\ElevatorSystemForms.dll
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\bin\Debug\net8.0-windows\ElevatorSystemForms.pdb
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\obj\Debug\net8.0-windows\ElevatorSystemForms.csproj.GenerateResource.cache
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\obj\Debug\net8.0-windows\ElevatorSystemForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\obj\Debug\net8.0-windows\ElevatorSystemForms.AssemblyInfoInputs.cache
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\obj\Debug\net8.0-windows\ElevatorSystemForms.AssemblyInfo.cs
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\obj\Debug\net8.0-windows\ElevatorSystemForms.csproj.CoreCompileInputs.cache
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\obj\Debug\net8.0-windows\ElevatorSystemForms.dll
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\obj\Debug\net8.0-windows\refint\ElevatorSystemForms.dll
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\obj\Debug\net8.0-windows\ElevatorSystemForms.pdb
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\obj\Debug\net8.0-windows\ElevatorSystemForms.genruntimeconfig.cache
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\obj\Debug\net8.0-windows\ref\ElevatorSystemForms.dll
+C:\Users\ss.volkov\source\repos\ElevatorSystemForms\ElevatorSystemForms\obj\Debug\net8.0-windows\ElevatorSystemForms.Form1.resources
