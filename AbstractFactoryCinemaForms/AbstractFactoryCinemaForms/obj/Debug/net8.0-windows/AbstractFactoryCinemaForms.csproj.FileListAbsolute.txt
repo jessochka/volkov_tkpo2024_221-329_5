@@ -1,0 +1,16 @@
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\obj\Debug\net8.0-windows\AbstractFactoryCinemaForms.Form1.resources
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\obj\Debug\net8.0-windows\AbstractFactoryCinemaForms.csproj.GenerateResource.cache
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\obj\Debug\net8.0-windows\AbstractFactoryCinemaForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\obj\Debug\net8.0-windows\AbstractFactoryCinemaForms.AssemblyInfoInputs.cache
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\obj\Debug\net8.0-windows\AbstractFactoryCinemaForms.AssemblyInfo.cs
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\obj\Debug\net8.0-windows\AbstractFactoryCinemaForms.csproj.CoreCompileInputs.cache
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\bin\Debug\net8.0-windows\AbstractFactoryCinemaForms.exe
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\bin\Debug\net8.0-windows\AbstractFactoryCinemaForms.deps.json
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\bin\Debug\net8.0-windows\AbstractFactoryCinemaForms.runtimeconfig.json
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\bin\Debug\net8.0-windows\AbstractFactoryCinemaForms.dll
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\bin\Debug\net8.0-windows\AbstractFactoryCinemaForms.pdb
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\obj\Debug\net8.0-windows\AbstractFactoryCinemaForms.dll
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\obj\Debug\net8.0-windows\refint\AbstractFactoryCinemaForms.dll
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\obj\Debug\net8.0-windows\AbstractFactoryCinemaForms.pdb
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\obj\Debug\net8.0-windows\AbstractFactoryCinemaForms.genruntimeconfig.cache
+C:\Users\ss.volkov\source\repos\AbstractFactoryCinemaForms\AbstractFactoryCinemaForms\obj\Debug\net8.0-windows\ref\AbstractFactoryCinemaForms.dll
